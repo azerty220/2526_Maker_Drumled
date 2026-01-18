@@ -8,6 +8,11 @@ Une partie conception 3D est envisagée afin de mettre le projet sur le contour 
 
 ### Quelques images d'une caisse claire et de ce que l'on trouve actuellement sur le marché :
 
+#### Exemple de caisse claire :
+Nous pouvons voir le fût sur lequel l'on pourra fixer le système et le déclencheur que l'on ne doit pas gêner en revanche. 
+
+![led scotchées avec transparence de l'instrument](images/image4.jpg)
+
 #####
 ![led scotchées avec transparence de l'instrument](images/image1.jpg)
 #####
@@ -15,10 +20,7 @@ Une partie conception 3D est envisagée afin de mettre le projet sur le contour 
 #####
 ![led scotchées avec transparence de l'instrument](images/image3.jpg)
 
-#### Exemple de caisse claire :
-Nous pouvons voir le fût sur lequel l'on pourra fixer le système et le déclencheur que l'on ne doit pas gêner en revanche. 
 
-![led scotchées avec transparence de l'instrument](images/image4.jpg)
 
 
 
