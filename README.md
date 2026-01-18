@@ -13,7 +13,8 @@ Nous pouvons voir le fût sur lequel l'on pourra fixer le système et le déclen
 
 ![led scotchées avec transparence de l'instrument](images/image4.jpg)
 
-#####
+#### Système d'éclairage existant :
+
 ![led scotchées avec transparence de l'instrument](images/image1.jpg)
 #####
 ![led scotchées avec transparence de l'instrument](images/image2.png)
