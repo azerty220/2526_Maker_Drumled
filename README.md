@@ -8,7 +8,7 @@ Une partie conception 3D est envisagée afin de mettre le projet sur le contour 
 
 ### Quelques images d'une caisse claire et de ce que l'on trouve actuellement sur le marché :
 
-![led scotchées avec transparence de l'instrument](images/image1)
+![led scotchées avec transparence de l'instrument](images/image1.jpg)
 
 
 
