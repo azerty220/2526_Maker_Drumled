@@ -11,17 +11,20 @@ Une partie conception 3D est envisagée afin de mettre le projet sur le contour 
 #### Exemple de caisse claire :
 Nous pouvons voir le fût sur lequel l'on pourra fixer le système et le déclencheur que l'on ne doit pas gêner en revanche. 
 
-![led scotchées avec transparence de l'instrument](images/image4.jpg)
+![caisse claire](images/image4.jpg)
 
 #### Système d'éclairage existant :
 
-![led scotchées avec transparence de l'instrument](images/image1.jpg)
+![led](images/image1.jpg)
 #####
-![led scotchées avec transparence de l'instrument](images/image2.png)
+![led](images/image2.png)
 #####
-![led scotchées avec transparence de l'instrument](images/image3.jpg)
+![led](images/image3.jpg)
 
 
+### Rétroplanning du projet :
+
+![retroplanning](images/retro.png)
 
 
 
