@@ -1,5 +1,7 @@
 # 2526_Maker_Drumled
 
+## Elise Firmin
+
 ### Description :
  
 Le projet consiste à mettre des leds sur la caisse-claire d’une batterie. Ces led s’allumeraient lorsque la caisse-claire reçoit un coup. De plus, il y aurait un encodeur permettant de choisir la couleur de l’éclairage.
