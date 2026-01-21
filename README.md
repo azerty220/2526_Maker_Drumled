@@ -26,6 +26,8 @@ Nous pouvons voir le fût sur lequel l'on pourra fixer le système et le déclen
 
 ### Rétroplanning du projet :
 
+Se référer à la partie "Projects" avec le nom "Retroplanning".
+
 ![retroplanning](images/retro.png)
 
 
