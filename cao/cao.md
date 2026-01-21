@@ -1,6 +1,7 @@
 ## CAO : conception assistée par ordinateur
 
 vector >> courbe
+
 raster >> pixel
 
 Si on veut une belle qualité : utiliser des vecteurs
