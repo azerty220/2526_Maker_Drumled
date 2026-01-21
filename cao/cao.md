@@ -1,4 +1,4 @@
-CAO : conception assistée par ordinateur
+## CAO : conception assistée par ordinateur
 
 vector >> courbe
 raster >> pixel
@@ -11,4 +11,4 @@ Résolution de l'imprimante donc on utilise une version raster.
 Logiciel de CAO : SketchUp (pas fait pour être précis), FreeCAD (pas facile d'utilisation), Fusion 360, SolidWorks, Blender (pour des formes non bien définies)
 On utilise Onshape
 
->> On peut exporter les pcb sur onshape. 
+> On peut exporter les pcb sur onshape. 
