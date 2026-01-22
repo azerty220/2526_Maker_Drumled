@@ -95,4 +95,27 @@ PLA (Fablab), ABS, PETG et ASA (atelier mécanique)
 
 Il existe des inserts PLA à mettre avec un fer à souder pour pouvoir avoir de bons filetages, et pouvoir assembler des pièces correctement.
 
+### Réglages
+
+Nombre de murs : à partir de 4 on peut marcher dessus, et ça ne se casse pas
+
+Densité : 15% c'est la norme 
+
+Forme de remplissage : gyroid à la mode : plus grande résistance, mais augmente le temps d'impression 
+
+Garder les speed par défaut
+
+Vitesse lorsque c'est en devers donc il va plus lentement pour que ça refroidisse 
+
+Vitesse de déplacement lorsqu'il n'imprime pas 
+
+Brim : pour rajouter une couche d'adhérence au niveau du plateau en support, si les pièces sont volumineuses et pour bien fixer la pièce
+
+Support : penser à les activer lorsque c'est utile, ce n'est pas par défaut
+
+
+
+
+
+
 
