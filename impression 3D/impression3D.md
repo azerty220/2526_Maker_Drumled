@@ -93,5 +93,6 @@ Shore A et D
 PLA (Fablab), ABS, PETG et ASA (atelier mécanique)
 
 
+Il existe des inserts PLA à mettre avec un fer à souder pour pouvoir avoir de bons filetages, et pouvoir assembler des pièces correctement.
 
 
