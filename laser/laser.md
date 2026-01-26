@@ -53,5 +53,5 @@ Laser Joint : crée des créneaux entre les pièces
 
 T-Slot Join : créer une extrusion pour l'insertion d'un boulon
 
- + puis créer un dessin puis modèle personnalié puis ISO format A2 par exemple et N'inclue pas et N'inclue pas (pour par qu'il grave le nom du projet, des bordures,...
+ '+' puis créer un dessin puis modèle personnalié puis ISO format A2 par exemple et N'inclue pas et N'inclue pas (pour par qu'il grave le nom du projet, des bordures,...
 
