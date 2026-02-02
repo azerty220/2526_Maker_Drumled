@@ -164,17 +164,21 @@ Dimensions inférieuresà100mmx100mm,
 
 4 couches maximum,
 
-Hole size>0.3mm(extracost0.3mm>Hole size>0.15mm)
+Hole size > 0.3mm (extra cost 0.3mm > Hole size > 0.15mm)
 
-Via diameter >0.45mm(extracost0.4mm>Hole size>0.25mm)
+Via diameter > 0.45mm (extra cost 0.4mm > Hole size > 0.25mm)
 
-Minimumspacing:0.09mm->0.10mm,3mil for BGA fan-out
+Minimum spacing : 0.09mm -> 0.10mm, 3mil for BGA fan-out
 
-Minimumtracewidth:0.16mm
-
-
+Minimum trace width : 0.16mm
 
 
+
+
+
+Exercice : 
+
+Se brancher sur la raspberry avec les pogopin avec une sorte de schield à l'arrière, et ressortir le signal sur 3 usb-c et 1 stlink-v3mods
 
 
 
