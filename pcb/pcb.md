@@ -178,7 +178,7 @@ Minimum trace width : 0.16mm
 
 Exercice : 
 
-Se brancher sur la raspberry avec les pogopin avec une sorte de schield à l'arrière, et ressortir le signal sur 3 usb-c et 1 stlink-v3mods
+Se brancher sur la raspberry avec les pogopin avec une sorte de schield à l'arrière, et ressortir le signal sur 4 usb-c
 
 
 
