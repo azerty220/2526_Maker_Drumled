@@ -25,7 +25,7 @@ Rajoute du fil sur les pistes les plus courtes pour qu'elles soient de même lon
 Mettre une résistance en série (1kohm) puis un condensateur en parallèle vers la masse (0.01microF) et une résistance en parallèle vers du 5V (100k) pour un switch pour éviter les rebonds.
 
 
-Diode TVS, pour enlever tout ce qui est au dessus d'un certain seuil pour ne pas griller le pcb. A installer au plus proche du connecteur.
+Diode TVS, pour enlever tout ce qui est au dessus d'un certain seuil pour ne pas griller le pcb. A installer au plus proche du connecteur. à chaque connecteur où il y a du signal (connecteur de batterie ce n'est pas intéressant) 
 
 
 
@@ -120,17 +120,57 @@ F : Front et B : Back
 
 
 
+Lorsqu'on est dans une page, et qu'on crée un label hiérarchique (avec petit losance, ou demi carré,... : entrée/sortie d'une "fonction"), il n'apparaît pas automatiquement dans la vue d'ensemble, il faut faire clic droit dans la vue d'ensemble sur la page 
+
+
+Remplir le MPN (ou MFR) dans tous les composants un peu spécifiques (pas les résistances et condensateurs standards)
+
+
+Checker le ERC (Electrical Rules Checker) : il ne doit y avoir aucune erreur 
+
+
+Commencer par définir la taille du pcb, et les trous de fixation
+
+Mettre le microcontrolleur avec beaucoup de pin au milieu
+
+
+Mettre les connecteurs sur les côtés
+
+
+Possibilité de switcher deux pins sur la schématique sur un microcontrolleur pour éventuellement faciliter le routage par exemple. 
+
+
+4 couches : plan de masse et plan d'alimentation
+
+
+1 via = 1 ampère
+
+
+JLCPCB : là où on fait fabriquer nos pcb
 
 
 
+Pour choisir le nombre de couche et la disposition : deuxième icone à côté de l'icone enregistrer > Physical Stackup (Ne pas changer In1, In2, In3,... pour la fabrication mais la partie "VCC",... on peut)
 
 
+Option sur jlcpcb : 
+
+1oz = 35 microns
+
+On garde les options de base (1oz ligne 1, 0.5oz ligne 2)
 
 
+Dimensions inférieuresà100mmx100mm,
 
+4 couches maximum,
 
+Hole size>0.3mm(extracost0.3mm>Hole size>0.15mm)
 
+Via diameter >0.45mm(extracost0.4mm>Hole size>0.25mm)
 
+Minimumspacing:0.09mm->0.10mm,3mil for BGA fan-out
+
+Minimumtracewidth:0.16mm
 
 
 
