@@ -601,6 +601,50 @@
 		)
 		(uuid "c077ca7d-c11e-4c9b-b1d5-f90fbdcfef51")
 	)
+	(hierarchical_label "SDA"
+		(shape bidirectional)
+		(at 81.28 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "29c8c9ec-4386-4617-8331-794014a2ece0")
+	)
+	(hierarchical_label "3.3V"
+		(shape input)
+		(at 81.28 48.26 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "7489f435-00bc-4507-b04f-ac927716e237")
+	)
+	(hierarchical_label "GND"
+		(shape bidirectional)
+		(at 81.28 50.8 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "9954a6af-2910-43ff-bea9-0d538d64635f")
+	)
+	(hierarchical_label "SCL"
+		(shape bidirectional)
+		(at 81.28 43.18 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ab034d9d-534c-476a-9175-d25bb6c5f180")
+	)
 	(rule_area
 		(polyline
 			(pts

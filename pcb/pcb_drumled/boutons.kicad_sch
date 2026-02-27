@@ -341,6 +341,71 @@
 			(embedded_fonts no)
 		)
 	)
+	(wire
+		(pts
+			(xy 46.99 73.66) (xy 48.26 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d424005b-118f-4335-a66a-6190ec701625")
+	)
+	(hierarchical_label "Switch2"
+		(shape bidirectional)
+		(at 46.99 73.66 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "08ec1c05-d2e0-439a-9abc-5c81e79c2238")
+	)
+	(hierarchical_label "Bouton1"
+		(shape bidirectional)
+		(at 48.26 100.33 180)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "6428c284-b601-4b3a-8c2c-15a305649b3f")
+	)
+	(hierarchical_label "Bouton2"
+		(shape bidirectional)
+		(at 58.42 100.33 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "6944e996-b5e4-45df-b7fe-39b1acc77114")
+	)
+	(hierarchical_label "Switch3"
+		(shape bidirectional)
+		(at 58.42 71.12 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c3b93777-2412-4444-b130-3ed6bcd9ef73")
+	)
+	(hierarchical_label "Switch1"
+		(shape bidirectional)
+		(at 58.42 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f3c5e679-5cff-4dc7-a531-b85b33db5a4b")
+	)
 	(symbol
 		(lib_id "Switch:SW_Push")
 		(at 53.34 100.33 0)

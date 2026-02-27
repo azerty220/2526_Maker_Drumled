@@ -480,6 +480,83 @@
 			(embedded_fonts no)
 		)
 	)
+	(hierarchical_label "GND"
+		(shape bidirectional)
+		(at 66.04 87.63 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "16878ad8-43aa-4635-b811-6056324e6ee3")
+	)
+	(hierarchical_label "Green"
+		(shape input)
+		(at 67.31 76.2 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "16eb4197-1892-4ba0-a3ec-f9286d180f50")
+	)
+	(hierarchical_label "5V"
+		(shape input)
+		(at 66.04 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "4f6e1819-82ad-431e-84ec-d9bf15e21ba1")
+	)
+	(hierarchical_label "Red"
+		(shape input)
+		(at 67.31 73.66 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "5bac5fb3-fca9-42cd-bf50-b798f7de96f0")
+	)
+	(hierarchical_label "Blue"
+		(shape input)
+		(at 67.31 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "776b7865-bb2f-4176-b0a7-a7a178caff78")
+	)
+	(hierarchical_label "GND"
+		(shape bidirectional)
+		(at 67.31 107.95 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ae6cf11d-60a3-475a-a7fe-72d1d1dacab4")
+	)
+	(hierarchical_label "5V"
+		(shape output)
+		(at 67.31 105.41 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "d76171af-eba0-4c2d-bc11-10128ca7aae1")
+	)
 	(symbol
 		(lib_id "Connector:Conn_01x03_Pin")
 		(at 62.23 76.2 0)
