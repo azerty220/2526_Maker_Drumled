@@ -1901,6 +1901,16 @@
 		)
 		(uuid "4fa7c6a8-abe4-410e-9674-d3574f963207")
 	)
+	(text "Connecteur test"
+		(exclude_from_sim no)
+		(at 214.376 117.348 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6f6c8441-53de-4b95-ac06-2acf57d5a934")
+	)
 	(junction
 		(at 88.9 31.75)
 		(diameter 0)
@@ -1938,7 +1948,7 @@
 		(uuid "784fc37c-3063-4473-93e4-b6e788ee3c16")
 	)
 	(junction
-		(at 187.96 24.13)
+		(at 248.92 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b90990e3-5041-465b-8c08-fa428eb2300b")
@@ -1974,7 +1984,7 @@
 		(uuid "313fcd17-0fa3-4010-8e21-772cef72e4d9")
 	)
 	(no_connect
-		(at 185.42 39.37)
+		(at 246.38 144.78)
 		(uuid "385bc952-0f64-4343-9f5c-144242f78508")
 	)
 	(no_connect
@@ -1994,11 +2004,11 @@
 		(uuid "523d8f38-e5e6-40e9-8e4c-32b64566cc50")
 	)
 	(no_connect
-		(at 190.5 39.37)
+		(at 251.46 144.78)
 		(uuid "5aa69817-9d68-4516-b86b-97296212eb9f")
 	)
 	(no_connect
-		(at 195.58 26.67)
+		(at 256.54 132.08)
 		(uuid "5c0ea635-98ca-4660-8fcb-a0335da10113")
 	)
 	(no_connect
@@ -2042,7 +2052,7 @@
 		(uuid "d9b5e0dd-a120-421e-a4e8-caf92f4dfda5")
 	)
 	(no_connect
-		(at 195.58 39.37)
+		(at 256.54 144.78)
 		(uuid "de7b7a2d-56f5-434e-b516-cb7fd87166bb")
 	)
 	(no_connect
@@ -2079,7 +2089,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 24.13) (xy 187.96 26.67)
+			(xy 248.92 129.54) (xy 248.92 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2089,7 +2099,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 41.91) (xy 187.96 39.37)
+			(xy 248.92 147.32) (xy 248.92 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2129,7 +2139,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 20.32) (xy 187.96 24.13)
+			(xy 248.92 125.73) (xy 248.92 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2139,7 +2149,7 @@
 	)
 	(wire
 		(pts
-			(xy 187.96 24.13) (xy 185.42 24.13)
+			(xy 248.92 129.54) (xy 246.38 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2159,7 +2169,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 25.4) (xy 182.88 26.67)
+			(xy 243.84 130.81) (xy 243.84 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2209,7 +2219,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 24.13) (xy 187.96 24.13)
+			(xy 251.46 129.54) (xy 248.92 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2219,7 +2229,7 @@
 	)
 	(wire
 		(pts
-			(xy 190.5 26.67) (xy 190.5 24.13)
+			(xy 251.46 132.08) (xy 251.46 129.54)
 		)
 		(stroke
 			(width 0)
@@ -2229,7 +2239,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 41.91) (xy 198.12 39.37)
+			(xy 259.08 147.32) (xy 259.08 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2239,7 +2249,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 24.13) (xy 193.04 26.67)
+			(xy 254 129.54) (xy 254 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2259,7 +2269,7 @@
 	)
 	(wire
 		(pts
-			(xy 182.88 39.37) (xy 182.88 41.91)
+			(xy 243.84 144.78) (xy 243.84 147.32)
 		)
 		(stroke
 			(width 0)
@@ -2369,7 +2379,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 24.13) (xy 198.12 26.67)
+			(xy 259.08 129.54) (xy 259.08 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2389,7 +2399,7 @@
 	)
 	(wire
 		(pts
-			(xy 193.04 41.91) (xy 193.04 39.37)
+			(xy 254 147.32) (xy 254 144.78)
 		)
 		(stroke
 			(width 0)
@@ -2409,7 +2419,7 @@
 	)
 	(wire
 		(pts
-			(xy 185.42 24.13) (xy 185.42 26.67)
+			(xy 246.38 129.54) (xy 246.38 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2493,7 +2503,7 @@
 	)
 	(global_label "SDA"
 		(shape bidirectional)
-		(at 198.12 41.91 270)
+		(at 259.08 147.32 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2503,7 +2513,7 @@
 		)
 		(uuid "1c9ffae3-aa5d-4cea-909d-9839e0406e05")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.12 49.5746 90)
+			(at 259.08 154.9846 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2515,7 +2525,7 @@
 	)
 	(global_label "3.3V"
 		(shape bidirectional)
-		(at 182.88 25.4 90)
+		(at 243.84 130.81 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2525,7 +2535,7 @@
 		)
 		(uuid "21d30ed4-1355-4507-beb6-65f9a29a7d83")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.88 17.1911 90)
+			(at 243.84 122.6011 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2537,7 +2547,7 @@
 	)
 	(global_label "SCL"
 		(shape bidirectional)
-		(at 198.12 24.13 90)
+		(at 259.08 129.54 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2547,7 +2557,7 @@
 		)
 		(uuid "22bbfee9-4918-4422-bf56-b538824c13b6")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 198.12 16.5259 90)
+			(at 259.08 121.9359 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2603,7 +2613,7 @@
 	)
 	(global_label "5V"
 		(shape bidirectional)
-		(at 193.04 24.13 90)
+		(at 254 129.54 90)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2613,7 +2623,7 @@
 		)
 		(uuid "42d8687e-3863-453d-9bd1-f4c5fd9594ca")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.04 17.7354 90)
+			(at 254 123.1454 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2691,7 +2701,7 @@
 	)
 	(global_label "Blue"
 		(shape bidirectional)
-		(at 193.04 41.91 270)
+		(at 254 147.32 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2701,7 +2711,7 @@
 		)
 		(uuid "547bab77-8464-4e02-b4c1-9c3c6198e787")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 193.04 50.1793 90)
+			(at 254 155.5893 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2713,7 +2723,7 @@
 	)
 	(global_label "Green"
 		(shape bidirectional)
-		(at 187.96 41.91 270)
+		(at 248.92 147.32 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2723,7 +2733,7 @@
 		)
 		(uuid "71750b20-889a-4282-ba95-1d8336482949")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 187.96 51.3889 90)
+			(at 248.92 156.7989 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2845,7 +2855,7 @@
 	)
 	(global_label "Red"
 		(shape bidirectional)
-		(at 182.88 41.91 270)
+		(at 243.84 147.32 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2855,7 +2865,7 @@
 		)
 		(uuid "afa496dd-2779-43fa-a479-196370737db5")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 182.88 49.5141 90)
+			(at 243.84 154.9241 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3061,6 +3071,21 @@
 				(justify left)
 				(hide yes)
 			)
+		)
+	)
+	(rule_area
+		(polyline
+			(pts
+				(xy 270.51 157.48) (xy 270.51 119.38) (xy 207.01 119.38) (xy 207.01 157.48)
+			)
+			(stroke
+				(width 0)
+				(type dash)
+			)
+			(fill
+				(type none)
+			)
+			(uuid 2d27589e-4d5f-44c6-a8f4-753209ee43f3)
 		)
 	)
 	(rule_area
@@ -3855,7 +3880,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_02x07_Odd_Even")
-		(at 190.5 31.75 270)
+		(at 251.46 137.16 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3864,7 +3889,7 @@
 		(fields_autoplaced yes)
 		(uuid "56cb8c7b-6dd9-4331-a74e-0b062bb47be8")
 		(property "Reference" "J1"
-			(at 180.34 31.7499 90)
+			(at 241.3 137.1599 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3873,7 +3898,7 @@
 			)
 		)
 		(property "Value" "Conn_02x07_Odd_Even"
-			(at 180.34 34.2899 90)
+			(at 241.3 139.6999 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3882,7 +3907,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 190.5 31.75 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3891,7 +3916,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 190.5 31.75 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3900,7 +3925,7 @@
 			)
 		)
 		(property "Description" "Generic connector, double row, 02x07, odd/even pin numbering scheme (row 1 odd numbers, row 2 even numbers), script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 190.5 31.75 0)
+			(at 251.46 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4703,7 +4728,7 @@
 	)
 	(symbol
 		(lib_id "Simulation_SPICE:0")
-		(at 187.96 20.32 180)
+		(at 248.92 125.73 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4711,7 +4736,7 @@
 		(dnp no)
 		(uuid "cc104c56-9193-4d85-a636-af8b8b2a69a1")
 		(property "Reference" "#GND015"
-			(at 187.96 15.24 0)
+			(at 248.92 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4720,7 +4745,7 @@
 			)
 		)
 		(property "Value" "0"
-			(at 187.96 18.034 0)
+			(at 248.92 123.444 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4728,7 +4753,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 20.32 0)
+			(at 248.92 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4737,7 +4762,7 @@
 			)
 		)
 		(property "Datasheet" "https://ngspice.sourceforge.io/docs/ngspice-html-manual/manual.xhtml#subsec_Circuit_elements__device"
-			(at 187.96 10.16 0)
+			(at 248.92 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4746,7 +4771,7 @@
 			)
 		)
 		(property "Description" "0V reference potential for simulation"
-			(at 187.96 12.7 0)
+			(at 248.92 118.11 0)
 			(effects
 				(font
 					(size 1.27 1.27)
