@@ -412,22 +412,6 @@
     [
       "184751cf-f963-4a20-a506-74be632dfa90",
       "Root"
-    ],
-    [
-      "4b056fa6-2ffb-47fd-8a92-ba373190493e",
-      "BOUTONS"
-    ],
-    [
-      "8959a03f-2769-4081-8c02-833ba022b4d2",
-      "CAPTEUR"
-    ],
-    [
-      "cd5d7b57-c925-4c88-841c-6f7c4ac94410",
-      "CONNECTIQUES_NEOPIXEL_BATT_MC"
-    ],
-    [
-      "097258a6-824d-4aaa-a64b-fff9f81ee2a6",
-      "REGULATEUR"
     ]
   ],
   "text_variables": {}
