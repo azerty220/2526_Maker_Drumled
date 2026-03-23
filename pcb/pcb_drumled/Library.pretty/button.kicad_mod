@@ -1,0 +1,106 @@
+(footprint "button"
+	(version 20241229)
+	(generator "pcbnew")
+	(generator_version "9.0")
+	(layer "F.Cu")
+	(property "Reference" "Button"
+		(at 0 -0.5 0)
+		(unlocked yes)
+		(layer "F.SilkS")
+		(uuid "55b4e3f4-204f-40c5-a8b1-afff3d1b2f94")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+		)
+	)
+	(property "Value" "WS-TASV SMT Tact Switch"
+		(at 0 1 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(uuid "e00eff06-d6e7-4a4c-9e80-baeff6737767")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "07ff87e8-7365-409a-b6f6-9f7478ff0874")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "4840da1c-24f5-4df8-9f0c-17c88214fa22")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(fp_poly
+		(pts
+			(xy -5.566866 2.58) (xy -4.016866 2.58) (xy -4.016866 3.89) (xy -5.566866 3.89)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "15f22619-1b32-4b3c-8109-b99c405397b0")
+	)
+	(fp_poly
+		(pts
+			(xy -5.561199 7.09) (xy -4.011199 7.09) (xy -4.011199 8.4) (xy -5.561199 8.4)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "9b1b499e-2068-48cf-b71b-59122c90bbbd")
+	)
+	(fp_poly
+		(pts
+			(xy 2.38 7.08) (xy 3.93 7.08) (xy 3.93 8.39) (xy 2.38 8.39)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "80ff7b36-6664-4c97-8423-22690ebad76d")
+	)
+	(fp_poly
+		(pts
+			(xy 2.386835 2.57) (xy 3.936835 2.57) (xy 3.936835 3.88) (xy 2.386835 3.88)
+		)
+		(stroke
+			(width 0)
+			(type solid)
+		)
+		(fill yes)
+		(layer "F.Cu")
+		(uuid "ac48a175-c2c1-4b0a-a83a-7dd6787bd8c7")
+	)
+	(embedded_fonts no)
+)
