@@ -6942,7 +6942,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100u"
+		(property "Value" "10u"
 			(at 257.81 92.7035 0)
 			(effects
 				(font
