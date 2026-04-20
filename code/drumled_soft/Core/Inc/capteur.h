@@ -10,4 +10,17 @@
 
 
 
+extern int COULEUR ;
+extern int red = 0 ;
+extern int green = 0;
+extern int blue = 0 ;
+int changement_couleur();
+
+
+
+
+
+
+
+
 #endif /* INC_CAPTEUR_H_ */
