@@ -6290,8 +6290,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "ON"
-		(at 216.4 59.2 0)
+	(gr_text "OFF"
+		(at 216.29 59.74 0)
 		(layer "F.SilkS")
 		(uuid "752e6da8-38de-4b40-9a56-510957140cb7")
 		(effects
@@ -6303,8 +6303,8 @@
 			(justify left bottom)
 		)
 	)
-	(gr_text "OFF"
-		(at 216.5 64 0)
+	(gr_text "ON"
+		(at 216.34 64.01 0)
 		(layer "F.SilkS")
 		(uuid "8a0c2f7a-294c-4821-98bc-413f3865a913")
 		(effects
