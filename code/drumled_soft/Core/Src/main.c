@@ -27,6 +27,7 @@
 /* USER CODE BEGIN Includes */
 #include "lsm6dsox.h"
 #include <stdio.h>
+#include "light.c"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/
@@ -102,14 +103,19 @@ int main(void)
   /* USER CODE BEGIN WHILE */
   while (1)
   {
+	  handle_button();
+	  changement_couleur();
+
 	  LSM6DSOX_ReadAccel(&hi2c2, &accel);
 	  if (LSM6DSOX_DetectShock(&accel)){
 		  printf("j'ai dépassé le seuil\r\n");
+		  neopixel_set_color(red, green, blue);
 	  }
 	  else{
 		  printf("toujours pas\r\n");
+		  neopixel_set_color(0,0,0);
 	  }
-	  HAL_Delay(100);
+	  HAL_Delay(10);
     /* USER CODE END WHILE */
 
     /* USER CODE BEGIN 3 */
