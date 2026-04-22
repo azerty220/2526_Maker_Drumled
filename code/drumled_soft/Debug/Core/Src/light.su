@@ -1,0 +1,3 @@
+../Core/Src/light.c:30:6:neopixel_set_color	24	static
+../Core/Src/light.c:44:6:changement_couleur	4	static
+../Core/Src/light.c:79:6:handle_button	16	static

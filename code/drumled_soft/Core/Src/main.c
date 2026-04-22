@@ -27,7 +27,7 @@
 /* USER CODE BEGIN Includes */
 #include "lsm6dsox.h"
 #include <stdio.h>
-#include "light.c"
+#include "light.h"
 /* USER CODE END Includes */
 
 /* Private typedef -----------------------------------------------------------*/

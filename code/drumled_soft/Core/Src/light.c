@@ -23,11 +23,11 @@ int blue = 0;
 #define NUMBER_OF_LEDS 1
 #define TOTAL_DATA_LENGTH (NUMBER_OF_LEDS * 24 +1)
 
-extern TIM_HandleTypeDef htim16;
+extern TIM_HandleTypeDef htim1;
 
 uint16_t neopixel_data[TOTAL_DATA_LENGTH];
 
-void neopixel_set_color(uint8_t r, uint8_t g, uint_t b){
+void neopixel_set_color(uint8_t r, uint8_t g, uint8_t b){
 	uint32_t color = (g<<16)|(r<<8)|b;
 	for (int i =0; i<24 ; i++){
 		if (color & (1<<(23-i))){
@@ -38,7 +38,7 @@ void neopixel_set_color(uint8_t r, uint8_t g, uint_t b){
 		}
 	}
 	neopixel_data[24]=0;
-	HAL_TIM_PWM_Start_DMA(&htim16, TIM_CHANNEL_1,(uint32_t*)neopixel_data, TOTAL_DATA_LENGTH);
+	HAL_TIM_PWM_Start_DMA(&htim1, TIM_CHANNEL_1,(uint32_t*)neopixel_data, TOTAL_DATA_LENGTH);
 }
 
 void changement_couleur (void){
