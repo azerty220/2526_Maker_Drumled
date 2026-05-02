@@ -60,8 +60,8 @@ all: main-build
 main-build: drumled_soft.elf secondary-outputs
 
 # Tool invocations
-drumled_soft.elf drumled_soft.map: $(OBJS) $(USER_OBJS) C:\Users\elise\OneDrive\ -\ ensea\Bureau\Nouveau\ dossier\ (3)\drumled_soft\STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
-	arm-none-eabi-gcc -o "drumled_soft.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\elise\OneDrive - ensea\Bureau\Nouveau dossier (3)\drumled_soft\STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="drumled_soft.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
+drumled_soft.elf drumled_soft.map: $(OBJS) $(USER_OBJS) C:\Users\elise\OneDrive\ -\ ensea\Bureau\2526_Maker_Drumled\code\drumled_soft\STM32G431KBTX_FLASH.ld makefile objects.list $(OPTIONAL_TOOL_DEPS)
+	arm-none-eabi-gcc -o "drumled_soft.elf" @"objects.list" $(USER_OBJS) $(LIBS) -mcpu=cortex-m4 -T"C:\Users\elise\OneDrive - ensea\Bureau\2526_Maker_Drumled\code\drumled_soft\STM32G431KBTX_FLASH.ld" --specs=nosys.specs -Wl,-Map="drumled_soft.map" -Wl,--gc-sections -static --specs=nano.specs -mfpu=fpv4-sp-d16 -mfloat-abi=hard -mthumb -Wl,--start-group -lc -lm -Wl,--end-group
 	@echo 'Finished building target: $@'
 	@echo ' '
 

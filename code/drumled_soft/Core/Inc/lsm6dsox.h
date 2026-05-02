@@ -8,7 +8,7 @@
 #define CTRL1_XL 0x10
 #define OUTX_L_A 0x28
 
-#define SEUIL 15000
+#define SEUIL 0 //1500
 
 typedef struct {
     int16_t x;
